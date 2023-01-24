@@ -11,7 +11,7 @@
 
 ## Introduction 
 
-In this project, we needed to exactly reproduce the behavior of many of the _standard C library_ (i. e. _libc_) functions, adapt some others and, as a bonus, implement singly linked list functions. In total, forty-two functions were implemented, they are:
+In this project, we needed to exactly reproduce the behavior of many of the _standard C library_ (i. e. _libc_) functions, adapt some others and, for the bonus project, implement singly linked list functions. In total, forty-two functions were implemented, they are:
 
 ### Functions from `<ctype.h>`
 
@@ -118,9 +118,9 @@ make bonus
   - [Understanding and implementing a linked list in C and Java](https://www.youtube.com/watch?v=VOpjAHCee7c) by [Jacob Sorber](https://www.youtube.com/@JacobSorber)
   
 - Automated tests:
-  - [Tripouille](https://github.com/Tripouille/libftTester)
-  - [War Machine](https://github.com/y3ll0w42/libft-war-machine)
-  - [ft_split_tester](https://github.com/Ysoroko/FT_SPLIT_TESTER)
+  - [libftTester](https://github.com/Tripouille/libftTester) by [Tripouille](https://github.com/Tripouille)
+  - [War Machine](https://github.com/y3ll0w42/libft-war-machine) by [lmartin](https://github.com/0x050f)
+  - [ft_split_tester](https://github.com/Ysoroko/FT_SPLIT_TESTER) by [Ysoroko](https://github.com/Ysoroko)
 
 
 
