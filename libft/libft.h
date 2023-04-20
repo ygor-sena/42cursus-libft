@@ -6,7 +6,7 @@
 /*   By: yde-goes <yde-goes@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/31 19:55:58 by yde-goes          #+#    #+#             */
-/*   Updated: 2023/04/20 09:57:39 by yde-goes         ###   ########.fr       */
+/*   Updated: 2023/04/20 10:03:00 by yde-goes         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -284,7 +284,6 @@ size_t	ft_strlcat(char *dst, const char *src, size_t size);
  */
 char	*ft_strnstr(const char *big, const char *little, size_t len);
 
-
 /* ************************************************************************** */
 /*                             STDLIB FUNCTIONS                               */
 /* ************************************************************************** */
@@ -410,7 +409,7 @@ char	*ft_strmapi(char const *s, char (*f)(unsigned int, char));
 /**
  * @brief The ft_striteri() function applies the function ’f’ on each character
  *        of the string passed as argument, passing its index as first argument.
- *        Each  character is passed by address to ’f’ to be modified if necessary.
+ *        Each character is passed by address to ’f’ to be modified if needed.
  * 
  * @param s The string on which to iterate.
  * @param f The function to apply to each character.
@@ -560,4 +559,5 @@ t_list	*ft_lstmap(t_list *lst, void *(*f)(void *), void (*del)(void *));
  * @param content The target to point str to.
  */
 void	ft_freethis(char **str, void *content);
+
 #endif
