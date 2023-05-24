@@ -111,6 +111,7 @@ make bonus
 ## References
 - General references
   - SCHILDT, Herbert. C Completo e Total. 2010.
+  - Tips for 42's students: https://github.com/agavrel/42_CheatSheet by [Antonin GAVREL](https://github.com/agavrel)
   - [Libft functions flowchart diagram](https://miro.com/app/board/o9J_l-dLC7Y=/)
   - [Acelera Libft](https://www.notion.so/Acelera-Libft-8874a01f188a4671ae503fe9e99056ab) by [rodsmade](https://github.com/rodsmade/Libft-42sp)
 
